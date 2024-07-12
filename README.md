@@ -1,2 +1,2 @@
 
-https://fold6.github.io/chat_discuss/chat_discuss_text.html
+[바로가기](https://fold6.github.io/Chat_discuss-testpage/index.html)
